@@ -1,2 +1,2 @@
-clone或push时用
+clone或push时用。不是github的密码!!!
 penghuang
