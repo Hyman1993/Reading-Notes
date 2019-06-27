@@ -1,38 +1,4 @@
-/*
- * Copyright (C) 2019 NTT DATA Corporation
- *
- */
-
-package jp.co.nitori.storefront.forms.validation;
-
-import de.hybris.platform.core.model.user.UserModel;
-import de.hybris.platform.enumeration.EnumerationService;
-import de.hybris.platform.servicelayer.exceptions.UnknownIdentifierException;
-import de.hybris.platform.servicelayer.user.UserService;
-
-import java.math.BigInteger;
-import java.nio.charset.Charset;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-import java.util.regex.Pattern;
-
-import javax.annotation.Resource;
-
-import org.apache.commons.collections.CollectionUtils;
-import org.apache.commons.lang.StringUtils;
-import org.springframework.validation.Errors;
-import org.springframework.validation.Validator;
-
-import jp.co.nitori.storefront.customer.util.MessageUtils;
-
-/**
- * <Class Description>
- *
- * @version $Id$
- */
-
-public abstract class AbstractValidatorUtils implements Validator {
+public abstract class AbstractValidatorUtilsTest implements Validator {
 
 	/**
 	 * 正規表現パターン：メールアドレスフォーマット
@@ -98,15 +64,6 @@ public abstract class AbstractValidatorUtils implements Validator {
 	 * 正規表現パターン：IBM機種依存文字 記号部分
 	 */
 	private static final Pattern REGEXP_IBM_SYMBOL = Pattern.compile("^[ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ￢￤＇＂㈱№℡∵]+$");
-
-	@Resource(name = "messageUtils")
-	private MessageUtils messageUtils;
-
-	@Resource(name = "userService")
-	private UserService userService;
-
-	@Resource(name = "enumerationService")
-	private EnumerationService enumerationService;
 
 	/**
 	 * Default Constructor.
