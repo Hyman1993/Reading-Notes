@@ -1,6 +1,6 @@
 # 读书笔记 /notes/ノート 2019.01.01 ~ 2019.01.14 </br>
 
-<strong style="color:red;">No.1 《程序是如何跑起来的》</strong><br/>
+<strong style="color:red;">No.1 [《程序是如何跑起来的》](https://github.com/Hyman1993/Reading-Notes/blob/master/2019%E5%B9%B4/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)</strong><br/>
 &nbsp;&nbsp;时间:2019.01.01 ~ 2019.01.14 <br/>
 &nbsp;&nbsp;比较浅显易懂的讲解了计算机的内部结构，计算机进行计算的原理以及程序的执行过程等。作为入门书籍还是不错的，很多地方也都是点到为止。<br/>
 
@@ -11,11 +11,11 @@
 # 读书笔记 /notes/ノート 2019.03.01 ~ 2019.04.01 </br>
 <strong style="color:red;">No.3 《spring-security-reference》</strong><br/>
 &nbsp;&nbsp;时间:2019.03.01 ~ 2019.04.01 <br/>
-&nbsp;&nbsp;更上面的springboot差不多，对于springsecurity的文档也是大致过目了一遍<br/>
+&nbsp;&nbsp;跟上面的springboot差不多，对于springsecurity的文档也是大致过目了一遍<br/>
 # 读书笔记 /notes/ノート 2019.04.01 ~ 2019.05.01 </br>
 <strong style="color:red;">No.4 《spring-framework-reference5.0》</strong><br/>
 &nbsp;&nbsp;时间:2019.04.01 ~ 2019.05.01 <br/>
-&nbsp;&nbsp;更上面的springboot差不多，对于spring的文档也是大致过目了一遍<br/>
+&nbsp;&nbsp;跟上面的springboot差不多，对于spring的文档也是大致过目了一遍<br/>
 # 读书笔记 /notes/ノート 2019.05.01 ~ 2019.06.01 </br>
 <strong style="color:red;">No.5 《JAVA核心知识点整理》</strong><br/>
 &nbsp;&nbsp;时间:2019.05.01 ~ 2019.06.01 <br/>
