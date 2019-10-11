@@ -28,3 +28,7 @@
 <strong style="color:red;">No.7 [《java并发编程的艺术》](https://github.com/Hyman1993/Reading-Notes/blob/master/2019%E5%B9%B4/Java%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)</strong><br/>
 &nbsp;&nbsp;<strong style="color:red;">时间:</strong>2019.07.01 ~ 2019.09.12 <br/>
 &nbsp;&nbsp;<strong style="color:red;">短评:</strong>书中太多空洞的专业名词，很多概念解释地太浅，多是一笔带过。代码实战部分较少，不易于理解，不推荐多线程初学者阅读。<br/>
+# 读书笔记 /notes/ノート 2019.09.15 ~ 2019.10.11 </br>
+<strong style="color:red;">No.8 [《jJava多线程编程核心技术》](https://github.com/Hyman1993/Reading-Notes/blob/master/2019%E5%B9%B4/Java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)</strong><br/>
+&nbsp;&nbsp;<strong style="color:red;">时间:</strong>2019.09.15 ~ 2019.10.11 <br/>
+&nbsp;&nbsp;<strong style="color:red;">短评:</strong>该书对于java多线程编程的知识讲得浅显易懂，所用的示例代码也非常易于理解，对于初学者来说比较友好，不足之处在于很多深一点的知识或是原理层面的知识并有没有提及或是一笔带过，比如线程池技术等，综合来说适于入门，不适于用来进阶。<br/>
