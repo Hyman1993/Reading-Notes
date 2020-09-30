@@ -1,4 +1,5 @@
-# 读书笔记 /notes/ノート 2018年 </br>
+# 读书笔记 /notes/ノート 2018年已读书籍列表
+</br>
 
 <strong style="color:red;">No.1 [《Java 8实战》](https://github.com/Hyman1993/Reading-Notes/blob/master/2019%E5%B9%B4/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)</strong><br/>
 <strong style="color:red;">No.2 [《Java23种设计模式(总结)》](https://github.com/Hyman1993/Reading-Notes/blob/master/2019%E5%B9%B4/%E7%A8%8B%E5%BA%8F%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84.pdf)</strong><br/>
